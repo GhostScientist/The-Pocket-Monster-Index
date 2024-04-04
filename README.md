@@ -1,3 +1,7 @@
+[Download and install via TestFlight](https://testflight.apple.com/join/2L4JpLEW)
+
+
+
 # The Pocket Monster Index
 
 # Effective Date: 04/01/2024
